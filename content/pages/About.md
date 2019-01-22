@@ -7,72 +7,76 @@ Title: About
 <div class="mt50">
 
 
-<h2>Sobre mim</h2>
+<h2>About me</h2>
 
-<p>Meu nome é Matheus Francisco Batista Machado, nasci no interior de São Paulo e atualmente sou estudande de Engenharia de Computação na Universidade Federal de Santa Catarina(<strike>vem formatura</strike>). Sou membro da empresa junior de engenharia de computação <a href="http://www.ejec.eng.br/">EJEC</a>.
-No momento estou aprendendo sobre front e back end,  ferramentas e tecnologia que gostaria  de compartilhar com todos. E gostaria muito de escrever como  é estudar Engenharia de Computação(<strike>ENC</strike>), explicar sobre as matérias iniciais e o curso.<br>Um pouco mais sobre min, adoro trabalhar em equipe, sou participativo e adoro conversar com pessoas, principalmente quando é sobre programação HAHA. Então qualquer dúvida podem mandar emails ou até msg no face.</p>
+<p>
+<h1>Firstly I would like to ask you to read the whole post</h1>
+<h1>And forgive my  english..</h1>
 
-
-<a href="https://matheusfrancisco.github.io/meu-primeiro-post/"><h2> Porque resolvi criar o blog</h2></a>
-<h4> Breve resumo.... </h4>
-Sei que há milhares, bilhão e trilhão de blogs , porque você resolveu criar um blog? HAHAHA. <br> Olha meu amado eu acho muito importante desenvolver a técnica de conseguir escrever bem <strike>é uma coisa que vocês já perceberam q eu não sei fazer , mas ok </strike>, além disso é muito importante para meu aprendizado pessoal , aliás tudo que você conseguir ensinar bem você  aprende melhor<strike> eu acredito que funciona assim , I BILIVE, *believe  ou seja não aprendo nada haha</strike> . <br>
-Poxaaaaa também sempre quis ter um blog e hoje como sou Dr. em "copy & paste",nada melhor do que eu copiar vários artigos de vários blogs e escrever sobre ou melhor colar sobre!!! HAHA .<strike>sempre deixando as referências </strike>
+<h1>Hello everyone</h1>
 
 
-<h2>Habilidades</h2>
+My name is Matheus Francisco B. Machado, I was born in 1994 in the interior of São Paulo, I'm an engineering student from the Federal University of Santa Catarina and I graduated this year.
+
+I'll talk little about me, currently I worke with Machine Learning python and javascript at UFSC/CNPq as a scientific initiation My current project is: (Comparison between the use of different data sets for the modeling and identification of at-risk academics can)  Comparação entre a utilização de diferentes conjuntos de dados para a modelagem e identificação de acadêmicos em risco, podem realizar <a href="http://formulario.pibic.ufsc.br/pibicFile/file/520505?tipo=1">Download</a>.  
+
+
+<h2>A little about my graduate </h2>
+
+The computer engineering course at UFSC campus Araranguá has a curriculum showen in the picture. We have 10 semesters here and a few hours of classes, about 5000 hours...Yeah, I know .. I know.. is alot of class time, but We can't anything. rsrsrs. Perhaps I'll create a post about the work of the curricular chairs... 
+<img src="../images/MatrizCurricular1.jpg" with="500" height="750">
+
+<h2>Cool stuff</h2>
+
+A few  cool stuff  I did
+<p>
+I and my friends created  one  makerspace <a href="http://www.araramakerspace.ufsc.br/">Arara Makerspace</a>  <a href="http://www.github.com/araramakerspace/">Arara Makerspace</a>. Basically is a OPEN LAB for the community. We teach and do many things.
+</p>
+
+<p>
+I teach Physics for college entrance examination in the PES course <a href="http://www.pes.ufsc.br/">PES-UFSC</a> 
+</p>
+<p>
+I worked at EJEC <a href="http://www.ejec.ufsc.br/">EJEC</a>.
+</p>
+</p>
+
+
+<h3> Why did I create a blog? </h3>
+<p> As you can see my english is very bad, so I decided to start writing in English to improve this skill.
+
+
+I'm going to start writing in English.</p>
+<h2>My skills</h2>
 
 <ul class="skill-list">
-	<li>HTML  </li>
-	<li>Design Responsivo </li>
-	<li>CSS - Básico</li>
-	<li>Css Frameworks (Bootstrap)</li>
-	<li>Javascript -Básico</li>
-	<li>Git</li>
-	<li>Python</li>
-	<li>PHP- Básico</li>
+	<li>Python </li>
+	<li>Flask</li>
+	<li>Django</li>
+	<li>I love Data Struct</li>
+	<li>HTML/CSS</li>
+	<li>Javascript</li>
+	<li>Nodejs</li>
+	<li>Git/Github</li>
 	<li>MySQL</li>
 	<li>Postgresql</li>
-	<li>Scrum and Kanban</li>
-	<li> Extreme Programming</li>
-	<li>Misra(– Motor Industry Software Reliability
-Association) language documents </li>
-	<li>C/C++</li>
-	<li>Java "infelizmente"</li>
-	<li>Jekyll - Básico</li>
-	<li>Se eu não souber, eu aprendo...</li>
-
+	<li>MongoDB</li>
+	<li>If I do not know, I'll learn.</li>
 </ul>
 
-<h2>Metas para 2017  </h2>
+<h2>Goals for 2019  </h2>
 
 <ul class="skill-list">
-	<li> Ruby </li>
-	<li> Php - avançado</li>
-	<li> Markdown</li>
-	<li> Jekyll</li>
-	<li> Python/Django</li>
-	<li> Melhorar 100% o Ingles  </li>
-	<li> Css/Scss/Stylus </li>
-	<li> Aprender novas tecnologias </li>
-	<li> Javascript </li>
-	<li> Desenvolver meus projetos pessoas </li>
-	<li> Ser + feliz ....</li>
+	<li> Improve my English </li>
+	<li> Improve Javascript +++++</li>
+	<li> Python learn more about +++</li>
+	<li> Improve my Vuejs skill</li>
+	<li> Learn about new techs </li>
 </ul>
 
-<h2>Projetos desenvolvidos</h2>
+<p>A little more about me <a href="https://github.com/matheusfrancisco/resume-cv">Resume</a>.</p>
 
-<ul>
-	<li><a href="https://github.com/matheusfrancisco/Multilayer-perceptron">Multilayer perceptron - Rede neural devenvolvida em sala de aula(UFSC) utilizada para ler o alfabeto braille
-</a></li>
-	<li><a href="https://github.com/matheusfrancisco/Implementa-o-fft-dft">Repository containing fast Fourier transform (FFT) and discrete fourier transform (DFT)</a></li>
-	<li><a href="https://github.com/alechaito/RedeNeuralSOM">RedeNeuralSOM</a></li>
-                              <li><a href="https://github.com/matheusfrancisco/redesocial">Rede Social feita em Java com framework hibernate</a></li>
-	<li><a href="https://github.com/matheusfrancisco">Várias coisinhas no Github</a></li>
-</ul>
-
-<p>Um pouco mais sobre min <a href="https://github.com/matheusfrancisco/resume-cv">Resume</a>.</p>
-
-<h2>Contato</h2>
+<h2>Contact me</h2>
 
 <ul>
 	<li><a href="https://github.com/matheusfrancisco/">Github</a></li>
@@ -80,6 +84,7 @@ Association) language documents </li>
 	<li><a href="https://twitter.com/@MtChicao">Twitter</a></li>
 </ul>
 
-<p>Se quiser perguntar algo , Só mandar um email para <a href="mailto:matheusmachadoufsc@gmail.com">matheusmachadoufsc@gmail.com</a>.</p>
-
+<p>Send me an email and let's talk a little <a href="mailto:matheusmachadoufsc@gmail.com">matheusmachadoufsc@gmail.com</a>.</p>
+<a href="mailto:matheusmachadoufsc@gmail.com">m.f.b.machado@grad.ufsc.br</a>.</p>
+<a href="mailto:matheusmachadoufsc@gmail.com">contato@matheusfrancisco.com.br</a>.</p>
 </div>

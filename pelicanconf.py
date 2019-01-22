@@ -17,15 +17,15 @@ def system_path(path):
 
 AUTHOR = u'Matheus Francisco'
 SITENAME = u'Matheus Francisco'
-SITESUBTITLE = u"Um blog de um estudande de engenharia de computação e apaixonado por desenvolvimento de software e hardware."
-#SITEURL = 'http://matheusfrancisco.com.br'
+SITESUBTITLE = u"A blog by a computer engineering student  about software and hardware development."
+SITEURL = 'https://matheusfrancisco.github.io/'
 
 PATH = 'content'
 DELETE_OUTPUT_DIRECTORY = True
 
 TIMEZONE = 'America/Sao_Paulo'
 
-DEFAULT_LANG = u'pt-br'
+DEFAULT_LANG = u'en'
 
 USE_FOLDER_AS_CATEGORY = True
 DEFAULT_DATE_FORMAT = '%a %d %B %Y'
@@ -99,8 +99,7 @@ SITELOGO = 'images/logo.jpg'
 SITELOGO_SIZE = 64
 FAVICON = 'images/favicon.png'
 
-ABOUT_ME = "Eu sou estudante de Engenharia de Computação pela UFSC, bolsista do CNPQ e trabalho com Machine Learning e Criptomoedas\
-<p>and I love python <3 </p>"""
+ABOUT_ME = "I am a student of computer engineering at UFSC who loves to develop in Python and blockchain."
 AVATAR = "/images/headshot.jpg"
 
 BANNER = "/images/BANNER.jpg"
