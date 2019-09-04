@@ -17,7 +17,7 @@ def system_path(path):
 
 AUTHOR = u'Matheus Francisco'
 SITENAME = u'Matheus Francisco'
-SITESUBTITLE = u"A blog by a computer engineering student  about software and hardware development."
+SITESUBTITLE = u"A blog by a nice guy who loves programming."
 SITEURL = 'https://matheusfrancisco.github.io/'
 
 PATH = 'content'
@@ -99,7 +99,7 @@ SITELOGO = 'images/logo.jpg'
 SITELOGO_SIZE = 64
 FAVICON = 'images/favicon.png'
 
-ABOUT_ME = "I am a student of computer engineering at UFSC who loves to develop in Python and blockchain."
+ABOUT_ME = "I am a nice guy who loves programming."
 AVATAR = "/images/headshot.jpg"
 
 BANNER = "/images/BANNER.jpg"
