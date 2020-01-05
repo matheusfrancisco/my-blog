@@ -10,6 +10,8 @@ Author: Mataheus Francisco
 
 I would like to share my roadmap to 2020.
 
-![roadmap](images/Backlog.png "RoadMap 2020")
+I will post all my studies and my schedule and my materials used for study.
+
+![roadmap](/images/Backlog.png "RoadMap 2020")
 
 
