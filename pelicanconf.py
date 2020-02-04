@@ -50,7 +50,7 @@ SOCIAL = (('github', 'http://github.com/matheusfrancisco'),
           ('facebook', 'https://www.facebook.com/matheusfranciscobatistamachado'),
           )
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
