@@ -14,3 +14,5 @@ make stopserver
 
 # matheusfrancisco.github.io
 # matheusfrancisco.com.br
+
+![](/home/evohc/Files/matheus-francisco/pelican-theme-blog/theme.jpeg)
